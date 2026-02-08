@@ -334,3 +334,81 @@ The trajectory of Occitan—from the "courtly voice" of Europe to a "forbidden p
 39. Lenga nòstra?: Local Discourses on Occitan Revitalization in Southwestern France By Elyse A. Ritchey A dissertation submitted i \- eScholarship.org, accessed February 7, 2026, [https://escholarship.org/content/qt1813k8nn/qt1813k8nn.pdf](https://escholarship.org/content/qt1813k8nn/qt1813k8nn.pdf)  
 40. Non-Quantitative Approaches to Dialect Classification and Relatedness | Oxford Research Encyclopedia of Linguistics, accessed February 7, 2026, [https://oxfordre.com/linguistics/display/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-438?p=emailAEpl00EtG7OO6\&d=/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-438](https://oxfordre.com/linguistics/display/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-438?p=emailAEpl00EtG7OO6&d=/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-438)  
 41. Revisiting Southern Gallo-Romance from a complexity theory standpoint: Occitan, accessed February 7, 2026, [https://www.researchgate.net/publication/387281669\_Revisiting\_Southern\_Gallo-Romance\_from\_a\_complexity\_theory\_standpoint\_Occitan](https://www.researchgate.net/publication/387281669_Revisiting_Southern_Gallo-Romance_from_a_complexity_theory_standpoint_Occitan)
+
+# **Research Process and Bibliography: The Occitan Diasystem**
+
+## **I. Research Methodology**
+
+The following steps were taken to structure and write the research paper on the Occitan language:
+
+1. **Scope Definition and Classification:**  
+   * Defined Occitan not merely as a dialect of French but as a distinct Romance **diasystem** (Léngua d'òc).  
+   * Established the geographical boundaries: Southern France (Midi), Val d'Aran (Spain), and the Occitan Valleys (Italy).  
+   * Determined the linguistic classification: The bridge between Gallo-Romance (Oïl) and Ibero-Romance (Catalan/Aragonese).  
+2. **Historical Analysis (Diachronic Linguistics):**  
+   * **Origins:** Investigated the transition from Vulgar Latin to Proto-Occitan (c. 700–1000).  
+   * **Substrates:** Examined the impact of pre-Roman languages, specifically **Aquitanian** (Proto-Basque) on Gascon and **Ligurian/Celtic** on Provençal.  
+   * **The Golden Age:** Analyzed the sociolinguistic prestige of the language during the Troubadour era (1100–1250) and its function as a literary *koinè*.  
+3. **Structural Linguistic Analysis:**  
+   * **Phonology:** Analyzed the conservative nature of Occitan vowels compared to French (retention of Latin stress and vowels).  
+   * **Morphosyntax:** Investigated the medieval **two-case system** (nominative/oblique) and its eventual collapse.  
+   * **Dialectology:** Highlighted the unique features of **Gascon** (e.g., *f* \> *h*, enunciative particles) as the most divergent dialect.  
+4. **Sociolinguistic Trajectory (Decline and Revival):**  
+   * Identified key turning points in the language's decline: The **Albigensian Crusade**, the **Ordinance of Villers-Cotterêts (1539)**, and the 19th-century educational policy of **La Vergonha**.  
+   * Examined revival efforts: The **Félibrige** movement (Mistral) and modern standardization (Classical Norm).  
+5. **Source Compilation:**  
+   * Aggregated academic papers, bibliographies, and historical texts to validate linguistic rules and historical events.
+
+## 
+
+## **II. Bibliography and Sources Used**
+
+The following academic resources, articles, and databases were consulted to produce the report.
+
+### **General Linguistics and History**
+
+* **Oxford Research Encyclopedia of Linguistics:** *History of the Occitan Language*. Detailed overview of origins and development.  
+  * Source: https://oxfordre.com/linguistics/  
+* **The Cambridge History of the Romance Languages:** *Latin and the Making of the Romance Languages*. Contextualizes Occitan within the broader Romance family.  
+  * Source: https://www.cambridge.org/core/books/cambridge-history-of-the-romance-languages/  
+* **Frontiers in Complex Systems:** *Revisiting Southern Gallo-Romance from a complexity theory standpoint*. Analysis of dialectal fragmentation and the "Oïl" vs. "Oc" diasystems.  
+  * Source: https://www.frontiersin.org/journals/complex-systems/articles/10.3389/fcpxs.2024.1429114/full
+
+### **The Troubadours and Literary History**
+
+* **Medieval Institute Publications:** *A Bibliographical Guide to the Study of the Troubadours and Old Occitan Literature* (Robert A. Taylor). A key resource for manuscript sources and genre definitions.  
+  * Source: https://scholarworks.wmich.edu/cgi/viewcontent.cgi?filename=4\&article=1001\&context=mip\_rmemc\&type=additional  
+* **Meta-Medieval (Juliet O'Brien):** *De Grammatica*. Investigates the impact of the Albigensian Crusade on the status of the language and the shift from "song" to "grammar".  
+  * Source: https://metametamedieval.com/2008/07/19/de-grammatica/  
+* **Cambridge University Press:** *The Troubadours: Chansonniers as Books*. Discusses the physical manuscripts and their role in preserving the language.  
+  * Source: https://www.cambridge.org/core/books/troubadours/chansonniers-as-books/CAF56C2AF4BB8BB91B9F95C63F505FEE
+
+### **Phonology, Syntax, and Grammar**
+
+* **ResearchGate (Damien Mooney):** *The Phonology of Occitan*. Detailed analysis of sound changes, including the Gascon shifts.  
+  * Source: https://research-information.bris.ac.uk/ws/portalfiles/portal/220648115/Chapter\_21\_Draft\_2\_DMooney.pdf  
+* **Historical Syntax:** *Longitudinal study of specific inflectional characteristics*. Discusses the evolution of verb tenses and dialectal divergence.  
+  * Source: https://historicalsyntax.org/hs/index.php/hs/article/view/196/141  
+* **Journal of French Language Studies:** *Variable Palatal Lateral in Occitan and Catalan*. Investigates specific phonological isoglosses.  
+  * Source: https://www.cambridge.org/core/journals/journal-of-french-language-studies/  
+* **Oxford Scholarship Online:** *Grammaticalization paths in Occitan*. Analysis of adverbs like *ben* and *plan*.  
+  * Source: https://academic.oup.com/book/60716/chapter/527706784
+
+### **Sociolinguistics and Language Decline**
+
+* **Trobar (Stanford University):** *La Vergonha and the Future of the Occitan Language*. Discusses the educational policies used to suppress the language.  
+  * Source: https://trobar.stanford.edu/la-vergonha-and-future-occitan-language.html  
+* **Cambridge Language Collective:** *The Tragic Decline of Occitan*. Covers the Ordinance of Villers-Cotterêts and the French Revolution's impact.  
+  * Source: https://www.thecambridgelanguagecollective.com/europe/falling-into-the-abyss-the-tragic-decline-of-occitan
+
+### **Gascon and Substrates**
+
+* **UC Berkeley (eScholarship):** *The Énonciatif System in Gascon*. In-depth look at the unique *que*, *e*, *be* particles in Gascon and the Aquitanian substrate.  
+  * Source: https://escholarship.org/uc/item/12v9d1gx
+
+### **Art and Manuscripts**
+
+* **Manuscript Miniatures:** Visual resources for medieval Occitan manuscripts.  
+  * Source: https://manuscriptminiatures.com/  
+* **Keith Parry:** *In Search of Romanesque Occitania*. Covers architectural and artistic context in Southern France.  
+  * Source: https://keithparry.org/2023/02/18/in-search-of-romanesque-occitania/
